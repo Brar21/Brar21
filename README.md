@@ -1,26 +1,10 @@
 
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]()
-
-
 <h1 align="center">Hi 👋, I'm Varainder Brar</h1>
 <h3 align="center">'I'm a certified Full-Stack developer i completed my 1000+hours coding partice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization.</h3>
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]()
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brar21&label=Profile%20views&color=0e75b6&style=flat" alt="brar21" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif"> 
 <br>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brar21" alt="brar21" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [sample.com](sample.com)
-
-- 💬 Ask me about **React, Redux and JavaScript**
-
-- 📫 How to reach me **vs21418@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/15ZBfTrhdheEwGzKrYktOsTShPRnbn4CZ?usp=sharing](https://drive.google.com/drive/folders/15ZBfTrhdheEwGzKrYktOsTShPRnbn4CZ?usp=sharing)
-
-- ⚡ Fun fact **Full-Stack Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +18,17 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brar21"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brar21" /></a></p><br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brar21" alt="brar21" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [sample.com](sample.com)
+
+- 💬 Ask me about **React, Redux and JavaScript**
+
+- 📫 How to reach me **vs21418@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/15ZBfTrhdheEwGzKrYktOsTShPRnbn4CZ?usp=sharing](https://drive.google.com/drive/folders/15ZBfTrhdheEwGzKrYktOsTShPRnbn4CZ?usp=sharing)
+
+- ⚡ Fun fact **Full-Stack Developer**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brar21&show_icons=true&locale=en&layout=compact" alt="brar21" /></p>
 
