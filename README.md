@@ -3,7 +3,7 @@
 <h3 align="center">'I'm a certified Full-Stack developer i completed my 1000+hours coding partice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization.</h3>
 
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]()
-<img align="right" alt="Coding" width="100%" src="https://miro.medium.com/max/1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif"> 
+<img align="right" alt="Coding" width="100%" height="80%" src="https://miro.medium.com/max/1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brar21&label=Profile%20views&color=0e75b6&style=flat" alt="brar21" /> </p>
 
 <br>
