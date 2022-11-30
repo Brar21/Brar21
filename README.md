@@ -1,5 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Varainder Brar</h1>
+
+### <div align="center">I'm Varinder Brar, a full-time full-stack freelance developer 👨‍💻 I completed my 1000+ hours of coding practice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization. 🚀</div>  
 <!-- <h3 align="center">'I'm a certified Full-Stack developer i completed my 1000+hours coding partice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization.</h3>
 
 <!-- [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]() -->
@@ -50,7 +52,6 @@
 </div>  
   
 
-### <div align="center">I'm Varinder Brar, a full-time full-stack freelance developer 👨‍💻 I completed my 1000+ hours of coding practice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization. 🚀</div>  
   
 
 - 🔭 I’m currently working on [Type Master](https://github.com/Brar21/RealTime_Messaging10132022/tree/master/typemaster)  
