@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="100%" height="50%" src="https://miro.medium.com/max/1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif"> 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brar21&label=Profile%20views&color=0e75b6&style=flat" alt="brar21" /> </p> -->
 
-<br>
+<!-- <br> -->
 
 <!-- <h3 align="center" fontsize="24px">Connect with me:</h3>
 <p align="center">
@@ -20,8 +20,8 @@
  -->
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brar21"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brar21" /></a></p><br><br> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brar21" alt="brar21" /></a> </p>
-
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brar21" alt="brar21" /></a> </p>
+ -->
 <!-- - 👨‍💻 All of my projects are available at [sample.com](sample.com)
 
 - 💬 Ask me about **React, Redux and JavaScript**
@@ -43,7 +43,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=brar21&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
-<br/>  -->
+<!-- <br/>  --> -->
 
 <div align="center">
 <img src="" align="center" style="width: 100%" />
