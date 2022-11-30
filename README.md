@@ -22,7 +22,7 @@
 <p><a href="https://www.buymeacoffee.com/brar21"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brar21" /></a></p><br><br> -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brar21" alt="brar21" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [sample.com](sample.com)
+<!-- - 👨‍💻 All of my projects are available at [sample.com](sample.com)
 
 - 💬 Ask me about **React, Redux and JavaScript**
 
@@ -30,18 +30,18 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/15ZBfTrhdheEwGzKrYktOsTShPRnbn4CZ?usp=sharing](https://drive.google.com/drive/folders/15ZBfTrhdheEwGzKrYktOsTShPRnbn4CZ?usp=sharing)
 
-- ⚡ Fun fact **Full-Stack Developer**
+- ⚡ Fun fact **Full-Stack Developer** -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brar21&show_icons=true&locale=en&layout=compact" alt="brar21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brar21&show_icons=true&locale=en" alt="brar21" /></p> -->
-
+<!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brar21&" width="100%" alt="brar21" /></p>
 
 <br>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=brar21&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=brar21&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <br/>  -->
 
