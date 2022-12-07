@@ -3,13 +3,7 @@
 
 ### <div align="center">I'm Varinder Brar, a full-time full-stack freelance developer 👨‍💻 I completed my 1000+ hours of coding practice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization. 🚀</div>  
 
-
-<!-- - 
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/15ZBfTrhdheEwGzKrYktOsTShPRnbn4CZ?usp=sharing](https://drive.google.com/drive/folders/15ZBfTrhdheEwGzKrYktOsTShPRnbn4CZ?usp=sharing)
-
-- ⚡ Fun fact **Full-Stack Developer** -->
-
+<img href="https://camo.githubusercontent.com/b1247b1acd44b31b0e457ea5bec2e755a69f2d3227e6a596cc807394db8541c8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33382f37652f34662f33383765346635323038316266656264366261393664396437383465396639342e676966" />
  
 
   
