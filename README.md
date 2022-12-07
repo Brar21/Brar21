@@ -26,6 +26,8 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/16yCvFjENxUHmZ7T564TxagBEBtEt9Y4E/view?usp=sharing">Resume</a>
   
 
 <br/>  
