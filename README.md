@@ -95,7 +95,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Brar21&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
+https://camo.githubusercontent.com/4c55848dcb948409eade0c3de7a7672c349e054cdb07ac8c841493dff4a451ce/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7372697374797665726d612673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d6e6f7264
 
 <br/>  
 
