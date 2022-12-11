@@ -96,7 +96,7 @@
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brar21&show_icons=true&locale=en&layout=compact" alt="Varinder" width={"415px"} height="280px" />
+<img <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brar21&show_icons=true&locale=en&layout=compact" alt="Varinder" align="center" />
 <br/>  
 </div>  
 <div align="center">
