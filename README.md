@@ -92,13 +92,13 @@
 
 
 ## Github Stats  
-<div align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Brar21&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Brar21&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 <br/>  
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brar21&show_icons=true&locale=en&layout=compact" alt="Varinder" width={"415px"} height="280px" />
 <br/>  
-
+</div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Brar21&&style=flat-square" align="center" />
 </div>  
