@@ -94,7 +94,7 @@
 ## Github Stats  
 <div align="center" display="flex"><img  src="https://github-readme-stats.vercel.app/api?username=Brar21&show_icons=true&count_private=true&hide_border=true" align="center" />
 
-
+&nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brar21&show_icons=true&locale=en&layout=compact" alt="Varinder" align="center" />
 
