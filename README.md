@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Varainder Brar</h1>
+<h1 align="center">Hi 👋, I'm Varinder Brar</h1>
 
 ### <div align="center">I'm Varinder Brar, a full-time full-stack freelance developer 👨‍💻 I completed my 1000+ hours of coding practice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization. 🚀</div>  
 
@@ -97,7 +97,9 @@
 &nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brar21&show_icons=true&locale=en&layout=compact" alt="Varinder" align="center" />
-
+&nbsp;
+ 
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonia-saini&" alt="sonia-saini" /></p>
 </div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Brar21&&style=flat-square" align="center" />
