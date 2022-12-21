@@ -101,7 +101,7 @@
  
  &nbsp;
  
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brar21&" alt="sonia-saini" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brar21&" alt="varinder-brar" /></p>
 </div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Brar21&&style=flat-square" align="center" />
