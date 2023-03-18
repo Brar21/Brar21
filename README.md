@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [Type Master](https://github.com/Brar21/RealTime_Messaging10132022/tree/master/typemaster)  
   
 
-- 🌱 I’m currently learning Next.js and Redux  
+- 🌱 I’m currently learning Node.js and Express.js  
   
 
 - ❓  Ask me about React, Redux and JavaScript  
